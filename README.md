@@ -25,7 +25,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-      ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`      ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝   ╚═════╝  ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Django+Backend+Developer;Current+project%3A++online+Shoe-store;Python+%26+SQL+Enthusiast;Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Django+Backend+Developer;Building+a+MySQL+Shoe+Store;Tailwind+CSS+Expert;Python+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -33,15 +33,11 @@
 
 **Backend** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Frontend** ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-### 📈 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 </div>
