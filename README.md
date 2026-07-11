@@ -38,6 +38,7 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css,cs"/>
+<img src="https://cdn.simpleicons.org/djangorestframework/ff1709" height="48" alt="Django REST Framework"/>
 </p>
 
 ## Frontend
