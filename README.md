@@ -38,7 +38,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css,cs"/>
-<img src="https://cdn.simpleicons.org/djangorestframework/ff1709" height="48" alt="Django REST Framework"/>
 </p>
 
 ## Frontend
@@ -51,7 +50,7 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
-<img src="https://cdn.simpleicons.org/djangorestframework" height="48" alt="Django REST Framework"/>
+<img src="https://www.django-rest-framework.org/img/logo.png" height="48" alt="Django REST Framework"/>
 </p>
 
 ## Database
